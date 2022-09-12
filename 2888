@@ -21,7 +21,6 @@ http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-28
 http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视",李连杰
 http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-
 #EXTINF:-1 group-title="影视",咏春系列
 http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视",黑帮系列
@@ -558,8 +557,6 @@ http://vd3.bdstatic.com/mda-ijjfe3s5z1iyvzgq/sc/mda-ijjfe3s5z1iyvzgq.mp4
 http://vd4.bdstatic.com/mda-jgvqig36bu4rc0ej/sc/mda-jgvqig36bu4rc0ej.mp4
 #EXTINF:-1 group-title="经典歌曲",大田后生仔
 https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 group-title="经典歌曲",大壮-我们不一样
-http://vodcdn.video.taobao.com/oss/taobao-ugc/9572871aa45747a786679a822d7e2709/1511859261/video.m3u8.m3u8
 #EXTINF:-1 group-title="经典歌曲",盗将行
 https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost
 #EXTINF:-1 group-title="经典歌曲",二小姐酒梦
@@ -610,8 +607,6 @@ http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/vi
 http://vodcdn.video.taobao.com/oss/ali-video/71b50ed488178715c6144a55b11e8d03/video.m3u8
 #EXTINF:-1 group-title="经典歌曲",黄凯芹-相爱很难
 http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
-#EXTINF:-1 group-title="经典歌曲",黄凯芹-雨中的恋人们
-http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8
 #EXTINF:-1 group-title="经典歌曲",江蕙梦中的情话
 http://vd2.bdstatic.com/mda-ji4rwrwg7fijyqkh/mda-ji4rwrwg7fijyqkh.mp4
 #EXTINF:-1 group-title="经典歌曲",讲真的
@@ -922,8 +917,6 @@ http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/14
 http://vd2.bdstatic.com/mda-jjmnjgiabtvmy13u/sc/mda-jjmnjgiabtvmy13u.mp4
 #EXTINF:-1 group-title="经典歌曲",张学友-只想一生跟你走
 http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
-#EXTINF:-1 group-title="经典歌曲",张学友-只愿一生爱一人
-http://vodcdn.video.taobao.com/oss/ali-video/ea4c5cc5613797ac8c44027adb1a029e/video.m3u8
 #EXTINF:-1 group-title="经典歌曲",张智霖-片片枫叶情
 http://vodcdn.video.taobao.com/oss/ali-video/1d02cf8794a542c930fbf210c0a4e3e7/video.m3u8
 #EXTINF:-1 group-title="经典歌曲",张智霖-现代爱情故事
@@ -1429,8 +1422,6 @@ http://ls.qingting.fm/live/3412131.m3u8
 #EXTINF:-1 group-title="广播",80后音怡台
 http://lhttp.qingting.fm/live/20207761/64k.mp3
 #EXTINF:-1 group-title="港台澳",八大戏剧
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 group-title="港台澳",八大戏剧
 http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 #EXTINF:-1 group-title="港台澳",八大綜合
 http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
@@ -1515,8 +1506,6 @@ http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港台澳",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 #EXTINF:-1 group-title="港台澳",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-#EXTINF:-1 group-title="港台澳",无线新闻
 http://23.237.10.66:16110
 #EXTINF:-1 group-title="港台澳",HTV4
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
@@ -1595,10 +1584,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="儿童",CCTV14
 http://219.140.56.34:3333/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="儿童",CCTV14
-http://49.7.234.13:808/hls/7/index.m3u8
-#EXTINF:-1 group-title="儿童",卡酷少儿
-http://49.7.234.13:808/hls/162/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV14
 http://39.137.49.76:8080/PLTV/88888888/224/3221225639/index.m3u8?
 #EXTINF:-1 group-title="儿童",黑莓动画
 http://39.137.49.76:8080/PLTV/88888888/224/3221225672/index.m3u8?
@@ -1644,8 +1629,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
 #EXTINF:-1 group-title="儿童",CCTV14
 http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
-#EXTINF:-1 group-title="儿童",CCTV14
-http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
 #EXTINF:-1 group-title="儿童",动物世界
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 #EXTINF:-1 group-title="儿童",一片住着熊的森林1
@@ -2369,32 +2352,6 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="儿童",CCTV4K
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1 group-title="儿童",CCTV1
-http://49.7.234.13:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV2
-http://49.7.234.13:808/hls/2/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV3
-http://49.7.234.13:808/hls/151/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV4
-http://49.7.234.13:808/hls/127/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV6
-http://49.7.234.13:808/hls/146/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV7
-http://49.7.234.13:808/hls/3/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV9
-http://49.7.234.13:808/hls/4/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV10
-http://49.7.234.13:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV11
-http://49.7.234.13:808/hls/183/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV12
-http://49.7.234.13:808/hls/6/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV13
-http://49.7.234.13:808/hls/155/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV15
-http://49.7.234.13:808/hls/175/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV17
-http://49.7.234.13:808/hls/176/index.m3u8
-#EXTINF:-1 group-title="儿童",CCTV1
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="儿童",CCTV2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
@@ -2660,8 +2617,6 @@ http://120.210.216.73:8080/ysten-business/live/SD12-576P-aqhmx-jy/1.m3u8?zanhd
 http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 #EXTINF:-1 group-title="地方台",亳州新闻
 http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-#EXTINF:-1 group-title="地方台",池州公共
-http://cm.wshls.homecdn.com/live/4abdf.flv?zanhd
 #EXTINF:-1 group-title="地方台",滁州公共
 http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 #EXTINF:-1 group-title="地方台",滁州科教
@@ -2752,12 +2707,6 @@ http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
 http://p2.weizan.cn/1110366022/132071060845712961/live.m3u8?zanhd
 #EXTINF:-1 group-title="地方台",桐城新闻
 http://pili-live-hls.ahtc.tianma3600.com/ahtc/tcxw.m3u8?zanhd
-#EXTINF:-1 group-title="地方台",铜陵公共
-http://dstpush1.retalltech.com/app/stream2.m3u8?zanhd
-#EXTINF:-1 group-title="地方台",铜陵科教
-http://dstpush1.retalltech.com/app/stream3.m3u8?zanhd
-#EXTINF:-1 group-title="地方台",铜陵新闻综合
-http://dstpush1.retalltech.com/app/stream1.m3u8?zanhd
 #EXTINF:-1 group-title="地方台",屯溪融媒
 http://112.30.194.221:20080/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8?zanhd
 #EXTINF:-1 group-title="地方台",湾沚区新闻综合
@@ -2808,10 +2757,6 @@ http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225506
 http://218.201.85.71:3170/m3u8?zzhongqd
 #EXTINF:-1 group-title="地方台",垫江综合
 http://125.62.24.185:80/1.m3u8?zzhongqd
-#EXTINF:-1 group-title="地方台",涪陵电视台
-http://livefuling.chinamcache.com/liveful/fldszb001.m3u8?zzhongqd
-#EXTINF:-1 group-title="地方台",涪陵电视台
-http://livefuling.chinamcache.com/liveful/fldszb001.flv?zzhongqd
 #EXTINF:-1 group-title="地方台",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 #EXTINF:-1 group-title="地方台",荣昌综合
@@ -2928,28 +2873,14 @@ http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",河源综艺
 http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
-#EXTINF:-1 group-title="地方台",惠州新闻综合
-http://dslive.grtn.cn/hzzh/sd/live.m3u8?zguangd
-#EXTINF:-1 group-title="地方台",江门综合
-http://dslive.grtn.cn/jmzh/sd/live.m3u8?zguangd
-#EXTINF:-1 group-title="地方台",揭阳综合
-http://dslive.grtn.cn/jyzh/sd/live.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",平远综合
 https://p2.weizan.cn/1033266991/615876688276112015/live.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",清新综合
 http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
-#EXTINF:-1 group-title="地方台",汕头综合
-http://dslive.grtn.cn/stzh/sd/live.m3u8?zguangd
-#EXTINF:-1 group-title="地方台",汕头综合
-http://dslive.grtn.cn/stzh/sd/live.m3u8?_upt=61db0df01642739502?zguangd
 #EXTINF:-1 group-title="地方台",韶关公共
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
-#EXTINF:-1 group-title="地方台",韶关新闻
-http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",韶关综合
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
-#EXTINF:-1 group-title="地方台",蛇口
-http://218.17.99.211:82/hls/d4encs75.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",深圳东部
 https://lglivepull.sznews.com/live/2646.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",生活HD
@@ -2968,12 +2899,6 @@ https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
 https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",阳江综合
 https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
-#EXTINF:-1 group-title="地方台",云浮综合
-http://dslive.grtn.cn/yfzh/sd/live.m3u8?zguangd
-#EXTINF:-1 group-title="地方台",肇庆综合
-http://dslive.grtn.cn/zqzh/sd/live.m3u8?_upt=0ca3e6411630330482?zguangd
-#EXTINF:-1 group-title="地方台",珠海综合
-http://dslive.grtn.cn/zhzh/sd/live.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",巴马综合
 https://cdn.gdlive.gdmain.com/live/5ky6zx60.m3u8?zguangxd
 #EXTINF:-1 group-title="地方台",北海经济科教
@@ -3058,16 +2983,12 @@ https://cdn.gdlive.gdmain.com/live/53xzyvv5.m3u8?zguangxd
 https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8?zguangxd
 #EXTINF:-1 group-title="地方台",资源电视台
 https://cdn.gdlive.gdmain.com/live/09oz9ba0.m3u8?zguangxd
-#EXTINF:-1 group-title="地方台",罗甸综合
-http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
 #EXTINF:-1 group-title="地方台",湄潭综合
 http://p2.weizan.cn/1635496647/663562647402642026/live.m3u8?zguizd
 #EXTINF:-1 group-title="地方台",清镇新闻综合
 http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8?zguizd
 #EXTINF:-1 group-title="地方台",仁怀新闻
 https://ali-live.rh163.cn/live/app1.m3u8?zguizd
-#EXTINF:-1 group-title="地方台",三都新闻综合
-http://pili-live-rtmp.207.i2863.com/i2863-207/sdpdzb.m3u8?zguizd
 #EXTINF:-1 group-title="地方台",松新闻
 http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
 #EXTINF:-1 group-title="地方台",桃综艺
@@ -3272,10 +3193,6 @@ http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8?zh
 http://221.233.242.239:280/live/72/playlist.m3u8
 #EXTINF:-1 group-title="地方台",仙桃新闻综合
 http://221.233.242.239:280/live/71/playlist.m3u8?zhubd
-#EXTINF:-1 group-title="地方台",云梦党建农业
-http://ymtvplay.gdnewmedia.cc/live/ymdj.m3u8
-#EXTINF:-1 group-title="地方台",云梦综合频道
-http://ymtvplay.gdnewmedia.cc/live/ymzh.m3u8?zhubd
 #EXTINF:-1 group-title="地方台",郧阳新闻综合
 http://58.19.198.159:2021/hls1.m3u8?zhubd
 #EXTINF:-1 group-title="地方台",保靖时政频道
@@ -3614,10 +3531,6 @@ http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
 http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8?zjiangsd
 #EXTINF:-1 group-title="地方台",南京信息
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="地方台",南通都市生活
-http://cm.wshls.homecdn.com/live/7cc7.flv?zjiangsd
-#EXTINF:-1 group-title="地方台",南通都市生活
-http://cm.wshls.homecdn.com/live/7cc7.m3u8?zjiangsd
 #EXTINF:-1 group-title="地方台",沛县新闻综合
 http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="地方台",如东新闻综合
@@ -3738,14 +3651,6 @@ http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?zjiangxd
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls?zjiangxd
 #EXTINF:-1 group-title="地方台",江西影旅游
 http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?zjiangxd
-#EXTINF:-1 group-title="地方台",南昌都市
-http://39.135.138.58:18890/PLTV/88888888/224/3221226226/index.m3u8?zjiangxd
-#EXTINF:-1 group-title="地方台",南昌公共
-http://39.135.138.58:18890/PLTV/88888888/224/3221226231/index.m3u8?zjiangxd
-#EXTINF:-1 group-title="地方台",南昌新闻综合
-http://39.135.138.58:18890/PLTV/88888888/224/3221226223/index.m3u8?zjiangxd
-#EXTINF:-1 group-title="地方台",南昌资讯政法
-http://39.135.138.58:18890/PLTV/88888888/224/3221226228/index.m3u8?zjiangxd
 #EXTINF:-1 group-title="地方台",瑞金综合频道
 http://live.mudu.tv/watch/u2udf0.m3u8?zjiangxd
 #EXTINF:-1 group-title="地方台",朝阳教育
@@ -3890,8 +3795,6 @@ http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8?shandd
 http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
 #EXTINF:-1 group-title="地方台",垦利新闻
 https://livealone302.iqilu.com/kenli/kenli_tv01/playlist.m3u8?shandd
-#EXTINF:-1 group-title="地方台",青岛城阳
-http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 #EXTINF:-1 group-title="地方台",青州文化旅游
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
 #EXTINF:-1 group-title="地方台",青州综合
@@ -3902,8 +3805,6 @@ http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
 http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd
 #EXTINF:-1 group-title="地方台",日照新闻综合
 http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
-#EXTINF:-1 group-title="地方台",潍坊滨海新闻综合
-https://livealone302.iqilu.com/binhai/binhai_tv.m3u8?shandd
 #EXTINF:-1 group-title="地方台",潍坊公共
 http://stream.wfcmw.cn/3/sd/live.m3u8?shandd
 #EXTINF:-1 group-title="地方台",潍坊公共
@@ -3968,8 +3869,6 @@ http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8?zshanxd
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
 #EXTINF:-1 group-title="地方台",离石综合
 https://p4.weizan.cn/1135473620/373615394535215266/live.m3u8?zshanxd
-#EXTINF:-1 group-title="地方台",黎城综合
-http://111.53.96.67:8081/live/1/index.m3u8?zshanxd
 #EXTINF:-1 group-title="地方台",灵石新闻综合
 https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
 #EXTINF:-1 group-title="地方台",潞城新闻综合
@@ -4058,10 +3957,6 @@ http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8?zshangd
 http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8?zshangd
 #EXTINF:-1 group-title="地方台",天水公共
 http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8?shanghai
-#EXTINF:-1 group-title="地方台",阿坝文艺
-http://ablive.abatv.com.cn:90/live/wypd.m3u8?zsicd
-#EXTINF:-1 group-title="地方台",阿坝综合
-http://ablive.abatv.com.cn:90/live/zhpd.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",宝兴综合
 http://flv.drs.tv.yatv.tv:8080/channellive/baoxingxian.flv?zsicd
 #EXTINF:-1 group-title="地方台",宝兴综合
@@ -4102,16 +3997,12 @@ http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsi
 https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",江油新闻综合
 http://live.sctvcloud.com/live/jiangyou.m3u8?zsicd
-#EXTINF:-1 group-title="地方台",金川新闻综合
-http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",金口河综合
 http://live.sctvcloud.com/live/jinkouhe.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",金阳综合
 http://live.jyrmtzx.com:8080/live/jyxw.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",井研综合
 http://tvfile.jy.lsrm.org.cn/cms/videos/nmip-media-jy/channellive/channel3/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="地方台",开江新闻综合
-http://lmt.kjzx.net:98/live1/live1.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",康巴卫视
 http://39.135.138.60:18890/PLTV/88888888/224/3221226207/index.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",康定新闻综合
@@ -4220,16 +4111,12 @@ http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 http://play.sngdxsn.com/live/gggy/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",遂宁新闻综合
 http://play.sngdxsn.com/live/xwzh/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="地方台",通江新闻综合
-http://live.sctvcloud.com/live/bztongjiang.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",万源新闻综合
 http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",旺苍新闻综合
 http://live.sctvcloud.com/live/wctv1.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",旺苍新闻综合
 https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="地方台",威远新闻综合
-http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",武胜综合
@@ -4274,8 +4161,6 @@ http://p2.weizan.cn/48393/657730224997692923/live.m3u8?zsicd
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",筠连综合
 http://118.122.78.172:89/live1/live1.m3u8?zsicd
-#EXTINF:-1 group-title="地方台",昭觉综合
-http://live.sctvcloud.com/live/zhaojue.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",自贡公共
 http://110.189.153.160:1002/ggpd.flv?zsicd
 #EXTINF:-1 group-title="地方台",自贡综合
@@ -4732,8 +4617,6 @@ http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="地方台",兵团十四师昆玉综合
 http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="地方台",兵团四师可克达拉综合
-http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="地方台",哈密二套
 http://stream.hmgbtv.com/hm2/hd/live.m3u8?zxinjd
 #EXTINF:-1 group-title="地方台",哈密三套
@@ -4828,8 +4711,6 @@ http://live.ynurl.com/video/s10001-mstv1/index.m3u8?zyund
 https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
 #EXTINF:-1 group-title="地方台",蒙自综合
 http://live.ynurl.com/video/s10019-mzdst/index.m3u8?zyund
-#EXTINF:-1 group-title="地方台",屏边综合
-http://tv.drs.hhtv.cc:8100/channellive/pbdst.flv?zyund
 #EXTINF:-1 group-title="地方台",屏边综合
 http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
 #EXTINF:-1 group-title="地方台",普洱公共频道
@@ -5056,10 +4937,6 @@ http://zzy789.xyz/bili.php?id=4355330
 http://zzy789.xyz/bili.php?id=1895574
 #EXTINF:-1 group-title="地方台",涂糊涂的蜡笔小新
 http://zzy789.xyz/bili.php?id=49132
-#EXTINF:-1 group-title="地方台",野原新之助蜡笔小新新番24H随机播放
-http://zzy789.xyz/bili.php?id=21507503
-#EXTINF:-1 group-title="地方台",樱桃小丸子蜡笔小新蓝光特别版
-http://zzy789.xyz/bili.php?id=21614203
 #EXTINF:-1 group-title="地方台",樱桃小丸子台配国语24小时轮播
 http://zzy789.xyz/bili.php?id=23242774
 #EXTINF:-1 group-title="地方台",咱们裸熊！24小时循环直播！
@@ -5128,8 +5005,6 @@ http://epg.112114.xyz/douyu/3949681
 http://epg.112114.xyz/douyu/674441
 #EXTINF:-1 group-title="地方台",动漫推荐官方直播间
 http://epg.112114.xyz/douyu/5187099
-#EXTINF:-1 group-title="地方台",二次元放映室，有呐味儿了!
-http://epg.112114.xyz/douyu/8912038
 #EXTINF:-1 group-title="地方台",海绵与大星直播间
 http://epg.112114.xyz/douyu/2250349
 #EXTINF:-1 group-title="地方台",江户川柯南，是一个蒸蛋。
@@ -5330,8 +5205,6 @@ http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-21
 http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
 #EXTINF:-1 group-title="地方台",体育賽场
 http://txtest-xp2p.p2p.huya.com/1099531627962-1099531627962-85900144783917056-2199063379380-10057-A-0-1.xs
-#EXTINF:-1 group-title="地方台",足球
-http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
 #EXTINF:-1 group-title="地方台",足球1
 http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
 #EXTINF:-1 group-title="地方台",足球2
@@ -5428,16 +5301,6 @@ https://epg.pm/stream/f877cddd1e20ebfa7e055becd87dbf0e37d468557b0455635c66a8ae38
 https://epg.pm/stream/d874e880ec3ca8e4f74dec7a29b3c8972622601aeeaad60336113893a4cd7204.m3u8
 #EXTINF:-1 group-title="地方台",南昌公共
 https://epg.pm/stream/9fb51c3463fe8a621d7728c9662b87b1bb979ab2ed80d51e5ac81941beeca5d0.m3u8
-#EXTINF:-1 group-title="地方台",南昌都市
-http://39.135.138.58:18890/PLTV/88888888/224/3221226226/index.m3u8
-#EXTINF:-1 group-title="地方台",南昌资讯
-http://39.135.138.58:18890/PLTV/88888888/224/3221226228/index.m3u8
-#EXTINF:-1 group-title="地方台",南昌资讯
-http://39.134.116.114:8080/wh7f454c46tw2118680138_-24892007/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226228/index.m3u8?icpid=88888888&RTS=1654741348&from=79102&hms_devid=868&prioritypopid=79102&online=1654741348&vqe=3
-#EXTINF:-1 group-title="地方台",南昌公共
-http://39.135.138.58:18890/PLTV/88888888/224/3221226231/index.m3u8
-#EXTINF:-1 group-title="地方台",南昌公共
-http://39.134.116.99:8080/wh7f454c46tw2207490498_-436007000/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8?icpid=88888888&RTS=1654741437&from=79102&hms_devid=874&prioritypopid=79102&online=1654741437&vqe=3
 #EXTINF:-1 group-title="地方台",南昌新闻
 http://player.521fanli.cn/1691/jx/nanchangm3u8.php?id=1
 #EXTINF:-1 group-title="地方台",南昌资讯
@@ -5446,20 +5309,6 @@ http://player.521fanli.cn/1691/jx/nanchangm3u8.php?id=3
 http://player.521fanli.cn/1691/jx/nanchangm3u8.php?id=4
 #EXTINF:-1 group-title="地方台",赣州新闻综合
 http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8
-#EXTINF:-1 group-title="地方台",北京新闻
-http://49.7.234.13:808/hls/161/index.m3u8
-#EXTINF:-1 group-title="地方台",北京文艺
-http://49.7.234.13:808/hls/10/index.m3u8
-#EXTINF:-1 group-title="地方台",北京科教
-http://49.7.234.13:808/hls/156/index.m3u8
-#EXTINF:-1 group-title="地方台",北京青年
-http://49.7.234.13:808/hls/159/index.m3u8
-#EXTINF:-1 group-title="地方台",北京财经
-http://49.7.234.13:808/hls/157/index.m3u8
-#EXTINF:-1 group-title="地方台",北京生活
-http://49.7.234.13:808/hls/158/index.m3u8
-#EXTINF:-1 group-title="地方台",北京影视
-http://49.7.234.13:808/hls/160/index.m3u8
 #EXTINF:-1 group-title="地方台",山东新闻
 https://epg.pm/stream/6262bcf0cdcd8f24d5b1d9218897185b4c06b717c2e686ad0a473fa8459b6a21.m3u8
 #EXTINF:-1 group-title="地方台",山东综艺
