@@ -27,3 +27,5 @@ YTB源:https://yun.lbbb.cc/d/m3u/YTB.m3u
 卷毛鼠源:https://yun.lbbb.cc/d/m3u/JMS.m3u
 
 河南移动源:https://yun.lbbb.cc/d/m3u/HNYD.m3u
+
+AList 驱动：https://www.shmilygoudan.com/
