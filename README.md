@@ -29,3 +29,20 @@ YTB源:https://yun.lbbb.cc/d/m3u/YTB.m3u
 河南移动源:https://yun.lbbb.cc/d/m3u/HNYD.m3u
 
 AList 驱动：https://www.shmilygoudan.com/
+
+https://itv.page.link/aptv APTV  
+https://itv.page.link/aptv-playback APTV 回放测试源  
+https://itv.page.link/yuechan YueChan  
+https://itv.page.link/chake 茶客  
+https://itv.page.link/feiyang 肥羊  
+https://itv.page.link/fan 范明明  
+https://itv.page.link/fan-hd 范明明 HD  
+https://itv.page.link/fan-global 范明明 Global  
+https://itv.page.link/fan-radio 范明明 Radio  
+https://itv.page.link/tvradio TVradio  
+https://itv.page.link/wuyun 乌云  
+https://itv.page.link/wuyun-adult 乌云 Adult  
+https://itv.page.link/yang YanG  
+https://itv.page.link/yang-adult YanG Adult  
+https://itv.page.link/douyu YanG 斗鱼  
+https://itv.page.link/huya YanG 虎牙
