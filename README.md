@@ -74,7 +74,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TV
 
 https://epg.pm/static/sitemap/test_channels_all.m3u    epg.pm 测试频道
 
-EPG 节目单
+# EPG 
 https://epg.112114.xyz/pp.xml
 
 http://epg.51zmt.top:8000/e.xml
