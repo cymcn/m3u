@@ -177,7 +177,9 @@ https://itv.page.link/huya YanG 虎牙
 邀请码：5261775）
  
 2、币安：https://accounts.binancezh.top/zh-CN/register?ref=94079866
+
 3、芝麻开门：https://www.gate.ac/signup/3919544
+
 4、派网（可进行量化网格交易）： https://www.pionex.cc/zh-CN/sign/ref/bnrJCDo5
  
 # 二、媒体账号
