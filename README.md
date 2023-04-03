@@ -149,7 +149,9 @@ https://itv.page.link/douyu YanG 斗鱼
 https://itv.page.link/huya YanG 虎牙
 
 
- #                  币圈无敌工具包 
+ #  
+  # 
+   #  币圈无敌工具包 
 写在前面，本人所发布内容，纯属交流，不承担任何技术及版权问题！ 
 文中所有链接收集于网络，只作为学习研究之用。
 请于下载24 小时后删除，否则一切后果自负，本人不承担任何责任！
@@ -157,7 +159,9 @@ https://itv.page.link/huya YanG 虎牙
 
 # 必看课程、知识等
 1、0基础币圈入门课程：https://academy.binance.com/zh/articles?page=1&tags=trading
+
 2、科普小知识系列 ：https://www.yuque.com/tokenpocket/efblcc
+
 3、TP做的DEFI专题系列：  TP做的DEFI专题系列
 
 
