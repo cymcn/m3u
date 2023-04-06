@@ -150,7 +150,7 @@ https://itv.page.link/huya YanG 虎牙
 
  # 
   # 
-   #Clash
+   # Clash
    下载不完整，怎么处理鸭？
 
 路由器沒有usb插u盤，直接換固件，沒必要給自己搞事情，有usb可以插u盤，或是閃存128，
